@@ -1,21 +1,11 @@
-*{
+:root{
+    --white: #ffffff
+    --black: #000000
+    --very-light-pink: #c7c7c7
+    --text-input-field: #f7f7f7
+    --hospital-green: #acd9b2
+}
+body {
     margin: 0;
-    padding: 0%;
-}
-
-div {
-    margin: auto;
-    background-color:cadetblue;
-}
-h1 {
-    text-align: center;
-    color: royalblue;
-    font-size: 50px;
-    padding: 40px;
-}
-p {
-    font-size: 25px;
-    color: royalblue;
-    background-color: aquamarine;
-    padding: 30px;
+    font-family: 'Quicksand', sans-serif;
 }
